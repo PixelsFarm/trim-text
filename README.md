@@ -1,0 +1,1 @@
+Jquery custom trim text
